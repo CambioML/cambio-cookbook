@@ -1,0 +1,5 @@
+.env
+.vscode
+.DS_Store
+examples/10K_Evaluator/models
+examples/10K_Evaluator/rlhf_checkpoints
