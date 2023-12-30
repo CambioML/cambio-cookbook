@@ -1,26 +1,26 @@
-# 👩‍🍳 Cambio Cookbook
-Jump into building AI applications with [`Cambio`](https://www.cambioml.com/). This repository contains examples to help you kickstart your AI journey with `Cambio`.
+# 👩‍🍳 CambioML Cookbook
+Jump into building AI applications with [`CambioML`](https://www.cambioml.com/). This repository contains examples to help you kickstart your AI journey with `CambioML`.
 
-These are built using `Cambio`'s open-source libraries, including [`pykoi`](https://github.com/CambioML/pykoi) and [`uniflow`](https://github.com/CambioML/uniflow).
+These are built using `CambioML`'s open-source libraries, including [`pykoi`](https://github.com/CambioML/pykoi) and [`uniflow`](https://github.com/CambioML/uniflow).
 
 This repository is a work in progress. We will be adding more examples and tutorials in the coming weeks.
 
 ## Examples
 These examples dive right into the code with little introduction, so you can get your hands dirty quickly. We recommend you read the [documentation]() or the [tutorials](#tutorials) section to get a better understanding of the concepts and libraries used in these examples.
 
-| Example | Cambio Packages | Description |
+| Example | CambioML Packages | Description |
 | --- | --- | --- |
-| [10K Evaluator](./examples/10K%20Evaluator/) | `pykoi`, `uniflow` | A simple example to show how to use Cambio to build a 10K evaluator. |
+| [10K Agent](./examples/10K%20Evaluator/) | `pykoi`, `uniflow` | Do you want to build an agent so that you can ask it anything about the annual report (10K)? In this example, we will show you how use `uniflow` and `pykoi` to extract  knowledge from a unstructured annual report (10K) and then finetune an LLM on these knowledge. |
 
 ## Tutorials
-These tutorials are designed to help you get started with Cambio. They are written in a step-by-step fashion, and are accompanied by code snippets and explanations.
+These tutorials are designed to help you get started with CambioML. They are written in a step-by-step fashion, and are accompanied by code snippets and explanations.
 
-| Tutorial | Cambio Packages | Description |
+| Tutorial | CambioML Packages | Description |
 | --- | --- | --- |
 | Coming Soon! | `pykoi`, `uniflow` | Coming Soon! |
 
 ## Installation
-To start cooking with `Cambio`, you can install `pykoi` and `uniflow` using `pip` in a `conda` environment.
+To start cooking with `CambioML`, you can install `pykoi` and `uniflow` using `pip` in a `conda` environment.
 
 First, create a conda environment on your terminal using:
 ```
