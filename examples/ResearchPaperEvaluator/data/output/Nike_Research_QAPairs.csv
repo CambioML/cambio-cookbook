@@ -1,0 +1,328 @@
+Question,Answer
+What is the focus of the study?,The effect of Nike Vaporly Shoes on Marathon Performance
+What type of study is being conducted?,An Observational Study
+What is being observed in the study?,The performance of marathon runners wearing Nike Vaporly Shoes
+What is the last name shared by two individuals in the context?,Chen
+How many individuals are mentioned in the context?,Five
+What is the first name of Loh?,Angela
+What type of institution is Cornell?,University
+Is Cornell a private or public institution?,Private
+In which country is Cornell University located?,United States
+What is Mount Everest known for?,Mount Everest is known for being Earth's highest mountain above sea level.
+Where is Mount Everest located?,Mount Everest is located in the Mahalangur Himal sub-range of the Himalayas.
+Which countries does the international border on Mount Everest's summit point separate?,The international border on Mount Everest's summit point separates China (Tibet Autonomous Region) and Nepal.
+What was the method used to collect data on marathon performances?,"A systematic sample of elite and sub-elite athletes' performances from 2015 to 2019 was collected, and publicly-available photographs of these performances were searched to identify whether Nike Vaporfly shoes were worn."
+What is the estimated improvement in marathon times for men wearing Vaporfly shoes?,"The estimated improvement in marathon times for men wearing Vaporfly shoes is between 2.0 and 3.9 minutes if the effect is additive, and between 1.4 and 2.8 percent if the effect is multiplicative."
+How do Vaporfly shoes affect women's marathon performances?,"Vaporfly shoes are estimated to improve women's marathon times between 0.8 and 3.5 minutes if the effect is additive, and between 0.6 and 2.2 percent if the effect is multiplicative."
+What is Mount Everest?,Earth's highest mountain above sea level
+Where is Mount Everest located?,In the Mahalangur Himal sub-range of the Himalayas
+What runs across the summit point of Mount Everest?,The international border between China (Tibet Autonomous Region) and Nepal
+What is the common feature of all the Nike marathon racing shoes mentioned?,A carbon fiber plate stacked inside of a highly responsive foam sole
+What is the general opinion about the performance impact of Vaporflys?,They provide a significant performance advantage to athletes
+What are some of the versions of Nike's marathon racing shoes?,"Vaporfly 4%, Vaporfly Next%, the Alphafly, and several prototype shoes"
+What was the main focus of the research studies mentioned?,The magnitude of the Vaporfly performance benefit.
+What was the average reduction in energy expenditure found when wearing Vaporflys?,Roughly 4%.
+Which other popular racing shoes were compared to Vaporflys in the studies?,"Adidas Adizero Adios Boost line of racing shoes, and Nike Zoom Matumbo track spikes."
+What was the source of the marathon performance data?,"Strava, a popular running log and GPS tracking website"
+What did The Upshot study find about the Vaporflys?,They imparted a 4 to 5% advantage in finishing time
+How many marathon performances were included in The Upshot's study?,Hundreds of thousands
+What did the study in Wired Magazine observe about runners in the 2017 New York City Marathon?,Runners were more likely to run the second half of the race faster than the first if they were wearing Vaporflys.
+What is the name of the shoe associated with runners performing better in the second half of the race?,Vaporflys
+In which year's New York City Marathon was the observation made regarding runners' performance with Vaporflys?,2017
+What aspect of marathon performance is being compared in the study?,The study compares people's performances with and without the Vaporflys.
+How does the study's sample selection differ from the Upshot study?,"The study uses an exhaustive sample of athletes who met a minimum performance standard at large marathon venues, rather than a convenient sample from Strava."
+Why are the runners in the study likely to be affected by shoe regulations?,Because many of them compete in national Olympic qualifying races which are subject to regulations.
+What is Mount Everest known for?,It is Earth's highest mountain above sea level.
+Where is Mount Everest located?,In the Mahalangur Himal sub-range of the Himalayas.
+Which two countries does the international border run between at Mount Everest's summit?,China (Tibet Autonomous Region) and Nepal
+What were the qualifying marathon times for men and women?,Men under 2:24 and women under 2:45
+How many distinct women and men were included in the sample?,270 distinct women and 308 distinct men
+What specific equipment were the researchers looking for on the athletes?,Nike Vaporfly shoes
+What types of athletes did the study aim to include?,Elite and sub-elite athletes
+Why was it important to include athletes who had success before the release of Nike Vaporfly shoes?,To ensure that inclusion in the study is unrelated to whether an athlete was wearing the shoes when they qualified for inclusion.
+What could have biased the sample if performances aided by the shoes were used to select athletes?,The sample might have been biased towards athletes who benefit most from the shoes.
+What method was used to identify the shoes worn by runners?,Photos posted on public websites and social media sites were used.
+Can you name some of the websites where photos were sourced from?,"marathonfoto.com, marathon-photos.com, sportphoto.com, flashframe.io, facebook.com, and instagram.com."
+What was the assumption made about Vaporfly shoes?,It was assumed that Vaporfly shoes were not worn by any runners except for a few elite athletes in 2015 or 2016.
+What event were the prototypes worn in?,2016 US Olympic Trials Marathon
+What is the accuracy percentage of shoe identification for men's performances?,95.5%
+Where have the shoe identifications been made publicly available?,https://github.com/joeguinness/vaporfly
+What is Mount Everest known for?,Mount Everest is known for being Earth's highest mountain above sea level.
+Where is Mount Everest located?,Mount Everest is located in the Mahalangur Himal sub-range of the Himalayas.
+Which countries does the international border on Mount Everest's summit point separate?,The international border on Mount Everest's summit point separates China (Tibet Autonomous Region) and Nepal.
+When did the adoption of Vaporfly shoes begin to rise significantly?,Early 2017
+What percentage of men ran faster in Vaporfly shoes according to the data?,74.5%
+How does the average marathon time in Vaporfly shoes compare to non-Vaporfly shoes for most runners?,Most runners' average time in Vaporfly shoes is faster than their average time in non-Vaporfly shoes.
+Why might the right plot not show the full story regarding runners' performances?,"Because runners might switch to Vaporflys when they run on faster marathon courses, which could skew the data."
+What is a characteristic of the Boston Marathon course?,The Boston Marathon course has hills and often has poor weather.
+Why is it important to consider the data when evaluating marathon courses?,It is important to consider the data to account for the difficulty of each marathon course.
+What does the area of a circle represent in the left part of Figure 1?,The number of runners from the race in our dataset
+What does the vertical position of a circle indicate in the left part of Figure 1?,The proportion of runners wearing Vaporfly shoes in the race
+"In the right part of Figure 1, what does the horizontal position of a circle represent?",The athlete’s average marathon time in non-Vaporfly shoes
+What is Mount Everest known for?,It is Earth's highest mountain above sea level.
+Where is Mount Everest located?,In the Mahalangur Himal sub-range of the Himalayas.
+Which two countries does the international border run between at Mount Everest's summit?,China (Tibet Autonomous Region) and Nepal
+What needs to be analyzed to estimate the effect of Vaporfly shoes?,"All of the data holistically, including the strength of each runner and the difficulty of each marathon course."
+What should be controlled for in the analysis?,The strength of each runner and the difficulty of each marathon course.
+What will be described in the next section?,A statistical model intended for estimating the effect of Vaporfly shoes.
+What is the title of the section?,Statistical Model
+What is the section number for 'Statistical Model'?,4
+What is likely discussed in this section?,The section likely discusses the details and components of a statistical model.
+What is the main objective of the statistical model?,"To estimate the effect of Vaporfly shoes on marathon performance, while controlling for runner ability and marathon course difficulty."
+How are the effects of Vaporfly shoes treated in the model?,The effects of Vaporfly shoes are treated as non-random effects in the statistical model.
+Are the data for men and women analyzed together or separately?,The data for men and women are analyzed separately to account for possible differences in performance characteristics.
+What does y_{i} represent in the context?,Marathon time in minutes for performance i
+What does x_{i} indicate about the shoes worn during performance i?,x_{i} indicates whether Vaporfly shoes were worn (1) or not worn (0) in performance i
+"What are j(i), k(i), and \ell(i) labels for?","j(i) is the label for the athlete, k(i) is the label for the marathon course, and \ell(i) is the label for the individual marathon race associated with performance i"
+What is a statistical model?,A statistical model is a family of probability distributions that represents the assumptions about the processes generating the data.
+What do models generally include?,Models generally include unknown parameters relevant to the questions posed in the study.
+What is the goal of the analysis in statistical modeling?,The goal of the analysis is to use the data to make inferences about the unknown parameters.
+What is the dependent variable in the untransformed equation?,Y_{i}
+"In the log untransformed equation, what operation is performed on the dependent variable?",Logarithm
+What is the independent variable in both equations?,x_{i}
+What is the purpose of the table?,To define individual terms.
+What does the table contain?,Definitions of individual terms.
+How is the information organized in the context?,In a table format.
+What parameter represents the effect of the Vaporfly shoes in the model?,\(b_{1}\)
+How does the effect of Vaporfly shoes on time differ when using log-transformed times compared to untransformed times?,"For log-transformed times, the effect is multiplicative (time changes by multiplying by \(\exp(b_{1})\)), while for untransformed times, the effect is additive (time changes by adding \(b_{1}\))."
+Does the model account for individual variations in the effects of Vaporfly shoes?,"No, the model does not attempt to model Vaporfly effects that vary among individual runners."
+What is Mount Everest known for?,It is Earth's highest mountain above sea level.
+Where is Mount Everest located?,In the Mahalangur Himal sub-range of the Himalayas.
+Which two countries does the international border cross at Mount Everest's summit?,China (Tibet Autonomous Region) and Nepal
+What does the term \(U_{j}\) represent in the model?,It represents an offset term for each runner to account for differing abilities.
+Why were time-varying runner effects not included in the final model?,Because it placed too much weight on athletes who raced frequently.
+What is the purpose of the term \(Z_{i}\) in the model?,To account for any other factors that affected the individual performances.
+What is the section title referring to?,Estimated Parameters
+How many parameters are being discussed?,5
+What is the nature of the parameters?,They are estimated.
+What function was used to fit the models?,lmer function
+Which package does the lmer function belong to?,lme4 package
+Where can the code and data for this research be found?,Online at https://github.com/joeguinness/vaporfly
+Did the study fit the same model for both men and women?,"No, separate models were fit for men and women."
+What types of marathon times were models fit for?,Models were fit for both untransformed and log-transformed marathon times.
+Where are the estimated parameters from the models displayed?,The estimated parameters are summarized in the table below.
+What is the Vaporfly effect on running times according to the evidence?,"Negative, indicating a decrease in times"
+Does the Vaporfly effect apply to both genders?,"Yes, it applies to both men and women"
+What does the evidence suggest about Vaporflys?,The evidence supports the hypothesis that Vaporflys decrease running times
+What is the estimate and standard error (s.e.) for men minutes for \(b_{0}\)?,The estimate for men minutes for \(b_{0}\) is 139.69 with a standard error of 0.59.
+Which parameter estimate is bolded for women log minutes for \(b_{1}\)?,The bolded parameter estimate for women log minutes for \(b_{1}\) is \(-0.0135\) with a standard error of 0.0049.
+What are the values of \(\sigma_{3}\) for men and women minutes?,The value of \(\sigma_{3}\) for men minutes is 1.874 and for women minutes is 2.43.
+What is Mount Everest known for?,It is Earth's highest mountain above sea level.
+Where is Mount Everest located?,In the Mahalangur Himal sub-range of the Himalayas.
+Which two countries does the international border run between at Mount Everest's summit?,China (Tibet Autonomous Region) and Nepal
+What is the estimated additive effect of wearing Vaporfly shoes on men's marathon times?,-2.95 minutes
+By what percentage are women's marathon times expected to decrease when wearing Vaporfly shoes?,1.34%
+What is the multiplicative effect of Vaporfly shoes on men's marathon times according to the log-transformed data?,0.979 (a decrease of 2.06%)
+For which gender do Vaporfly shoes have a greater effect according to the estimates?,Men
+What level of confidence is used for the confidence intervals in the table?,90%
+What method is used to construct the confidence intervals for the Vaporfly effects?,Normal approximation to the sampling distribution of the estimates
+What does the absence of zero in the intervals suggest?,It suggests strong evidence for a non-zero Vaporfly effect.
+Why is there uncertainty about which sex benefits most from Vaporfly shoes?,Because there is substantial overlap between the men's and women's confidence intervals.
+What was the conclusion about the difference in Vaporfly effects between men and women?,There is not sufficient evidence to conclude that the effects differ by sex.
+What method is used to calculate the estimates of the fixed effects in random effects models?,Generalized least squares criterion
+What does generalized least squares do with the data dependencies?,It attempts to triangulate all of the dependencies in the data.
+What are the fixed effects estimates expressed as?,Linear combinations of the responses
+What does the symbol \(\widehat{b}_{1}\) represent in the equation?,\(\widehat{b}_{1}\) represents an estimated parameter or coefficient in the equation.
+What operation is being performed on the terms \(c_{i}\) and \(y_{i}\)?,The terms \(c_{i}\) and \(y_{i}\) are being multiplied together.
+What does the summation symbol \(\sum\) indicate in the context of the equation?,The summation symbol \(\sum\) indicates that the products of \(c_{i}\) and \(y_{i}\) are being summed from \(i=1\) to \(n\).
+"What are \(c_{1},\ldots,c_{n}\)?",Coefficients calculated using the covariance matrix of the random effects model.
+How can the values of the coefficients appear?,Seemingly counter-intuitive.
+What is plotted in Figure 2?,The coefficients for the estimates of the Vaporfly effects.
+What method is used to pick coefficients?,Generalized least squares
+How many performances are considered in the context?,Four
+What is the purpose of considering the performances?,To make sense of why generalized least squares picks these coefficients
+What does y1 represent?,Time for Runner 1 at Boston Marathon 2016
+What event does y3 correspond to?,Chicago Marathon 2017
+Who does y2 refer to?,Runner 2 at Boston Marathon 2016
+What is the 90% confidence interval for Vaporfly effects on men's minutes?,"(-3.933, -1.959)"
+What is the 90% confidence interval for Vaporfly effects on women's log minutes?,"(-0.022, -0.006)"
+What does Table 2 represent?,90% confidence intervals for Vaporfly effects in each model.
+What is Mount Everest known for?,It is Earth's highest mountain above sea level.
+Where is Mount Everest located?,In the Mahalangur Himal sub-range of the Himalayas.
+Which two countries does the international border run between at Mount Everest's summit?,China (Tibet Autonomous Region) and Nepal
+What did the second runner switch to at Chicago in 2017?,Vaporflys
+Did the first runner wear Vaporflys?,No
+How might one estimate the Vaporfly effect from the data?,By calculating the average of the Vaporfly performances minus the average of the non-Vaporfly performances
+"What operation is performed on y1, y2, and y3?",They are added together and then divided by 3.
+What is subtracted from y4?,"One third of the sum of y1, y2, and y3 is subtracted from y4."
+What mathematical concept does this expression represent?,It represents a linear combination of variables.
+What coefficient is placed on the Vaporfly performance?,Positive coefficient (1.0)
+What coefficients are placed on the non-Vaporfly performances?,Negative coefficients (-0.33)
+What would a better estimate consider regarding the Vaporflys?,How much the second athlete's advantage increased after switching to the Vaporflys
+What operation is performed between the terms (y_{4}-y_{3}) and (y_{2}-y_{1})?,Subtraction
+What is the subscript of the second y term in the first group?,3
+How many y terms are there in the expression?,4
+What does the first difference (\(y_{4}-y_{3}\)) represent?,It measures how much better the second athlete performed in Chicago while wearing Vaporflys.
+What type of coefficient is placed on the second runner's performance in Chicago?,A positive coefficient.
+Which performance has a negative coefficient for the first runner?,The first runner's Chicago performance.
+What is the general trend of coefficients for performances after the Vaporfly was introduced?,Generally positive coefficients when the Vaporfly is worn.
+What kind of coefficients were observed in early performances before the Vaporfly was available?,Either positive or negative coefficients.
+What is the expected reason for the variation in the magnitude of coefficients?,The differing number of performances from each runner and from each race.
+What does each point on Figure 2 represent?,An individual performance \(y_{i}\)
+What does the height of each point on Figure 2 indicate?,The corresponding coefficient \(c_{i}\)
+What is being estimated in Figure 2?,The Vaporfly effect \(\widehat{b}_{1}\)
+What is Mount Everest?,Earth's highest mountain above sea level
+Where is Mount Everest located?,In the Mahalangur Himal sub-range of the Himalayas
+What runs across the summit point of Mount Everest?,The international border between China (Tibet Autonomous Region) and Nepal
+What does Figure 2 display?,The coefficients in the generalized least squares estimate
+What does Figure 2 not show?,Raw performances
+What type of estimate is shown in Figure 2?,Generalized least squares estimate
+What is Mount Everest known for?,Being the highest mountain in the world
+What is the height of Mount Everest's peak?,"8,848 meters above sea level"
+Who were the first confirmed climbers to reach the summit of Mount Everest?,Sir Edmund Hillary and Tenzing Norgay
+What is the likely improvement in marathon time for men after switching to Vaporfly shoes?,"Between 2.0 and 3.9 minutes, or between 1.4% and 2.8%"
+How much can women's marathon time improve by using Vaporfly shoes?,"Between 0.8 and 3.5 minutes, or between 0.6% and 2.2%"
+What distance can elite marathon runners cover in 3 minutes?,More than half a mile
+What is the assumed effect of Vaporflys on runners?,The assumed effect of Vaporflys is that it is the same for every runner of the same sex.
+Why might the assumption of marathon time following a normal distribution be questionable?,"The assumption may be questionable because it is believed that a runner is more likely to run 5 minutes slower than expected rather than 5 minutes faster, indicating that marathon performance can vary significantly when problems occur."
+What factors might influence how much a runner benefits from Vaporflys?,"Biomechanical factors might influence how much a runner benefits from Vaporflys, as well as whether they had been wearing suboptimal shoes before switching to Vaporflys."
+Why were runners who did not finish their races not included in the study?,The data on runners that did not finish their races is more difficult to obtain and model.
+"What did the Wired study (Thompson, 2017) find about runners wearing Vaporflys?",The study found that people wearing Vaporflys generally ran better in the second half of the race.
+What is the expected impact of including drop-out data on the Vaporfly effect estimate?,Including drop-outs is believed to only strengthen the estimate of the Vaporfly effect.
+What method was used to identify the shoes?,A manual process of searching through photographs.
+Why is the manual process of identifying shoes prone to error?,It is prone to error due to misidentification of the person and the shoes.
+What did one athlete do to conceal the identity of his shoes?,The athlete attempted to conceal the identity of his shoes by coloring in the white Swoosh on a blue pair of Vaporflys.
+How many marathons were sampled in the study?,22
+What could strengthen the results of the study?,Tracking down every performance from the athletes in the study.
+Will missing performances from some athletes bias the results?,"No, missing these performances shouldn't bias the results."
+Why might athletes switch to Vaporfly shoes?,Because they believe they are ready to turn in a good marathon performance.
+What is the possible relationship between athletes' performance and their choice of shoes?,Athletes are more likely to choose Vaporfly shoes when they anticipate a good performance.
+What is left incomplete in the context about some athletes?,The context does not finish explaining the inverse situation regarding athletes and Vaporfly shoes.
+How much are individuals willing to pay for shoes even if they are out of shape?,$250
+What did the Upshot study control for to investigate the results?,Training volume
+Who does the sample consist of in the study?,Solely highly accomplished runners
+What were researchers able to identify in marathon performances?,Shoes
+How can athletes suppress photographs of themselves?,By untagging themselves in Facebook photos or choosing not to post pictures from their races.
+What could cause the estimated effect of Vaporfly shoes to be inaccurately large?,If athletes suppress photos of poor performances while wearing Vaporfly shoes.
+What is Mount Everest?,Earth's highest mountain above sea level
+Where is Mount Everest located?,In the Mahalangur Himal sub-range of the Himalayas
+Which countries does the international border run between at Mount Everest's summit?,China (Tibet Autonomous Region) and Nepal
+Who provided comments on the early draft of the manuscript?,Richard Heffron and Melissa Hardesty
+Who are the two peer reviewers mentioned?,Harry Crane and Ted Westling
+"What did Karen Mitchell, Clay Shaw, and Malrie Sonier do to be thanked?",They take photos of major marathons and post them to social media
+What is Mount Everest known for?,It is Earth's highest mountain above sea level.
+Where is Mount Everest located?,In the Mahalangur Himal sub-range of the Himalayas.
+Which two countries does the international border run between at Mount Everest's summit?,China (Tibet Autonomous Region) and Nepal
+What was the focus of the study by Barnes and Kilding in 2019?,The study investigated the running economy of highly-trained male and female distance runners in marathon racing shoes versus track spikes.
+What is the title of the article by Kealy and Katz in 2018 about Nike's running shoes?,Nike says its $250 running shoes will make you run much faster. what if that's actually true?
+What software is associated with the R Core Team in 2018?,R: A Language and Environment for Statistical Computing
+What is the main topic of the article by Thompson?,Whether Nike's new marathon shoes can make you run faster
+In what year was the article about Nike's marathon shoes published?,2017
+Where can the article by Thompson be found?,On the website https://www.wired.com/story/do-nike-zoom-vaporfly-make-you-run-faster/
+What is the title of the appendix?,Appendix A
+What content is found in Appendix A?,Table of Marathons Used in Analysis
+What is the purpose of Appendix A?,To list the marathons that were used in the analysis
+What is the name of the marathon held in New York?,New York City Marathon
+Which marathon is listed that takes place in Canada?,Ottawa Marathon
+Name a marathon that has a connection to the military.,Marine Corps Marathon
+What is the title of the section?,Appendix B Peer Review Comments and Responses
+What is likely contained in this section?,Comments from peer reviewers and the corresponding responses.
+What is the purpose of this section in a document?,To provide transparency and show how feedback from peers was addressed or incorporated.
+How is the section organized?,"Into subsections, one for each reviewer."
+How are the reviewers' comments presented in the text?,Italicized
+How are the responses and discussions to the reviewers' comments presented?,In normal text
+Who is Harry Crane?,Harry Crane is presumably a person associated with Rutgers University.
+What is Rutgers University?,Rutgers University is an American public research university.
+What is the likely relationship between Harry Crane and Rutgers University?,"Harry Crane is likely an employee, student, or faculty member at Rutgers University."
+What is being analyzed in the context?,Runner performance with and without the Nike Vaporfly.
+Who would find this analysis of interest?,"The running and sports science community, and the general public."
+What advantage do early adopters of the Nike Vaporfly gain?,A competitive advantage for as long as the benefits of the new product remain unknown to the broader pool of competitors.
+What might be worth including in the paper?,Some of the points mentioned below.
+What is the primary purpose of the points mentioned?,For the author's own curiosity.
+Is it necessary to comment on all the points in the paper?,"No, only some might be worth commenting on."
+What improvement is noted when athletes switch to Vaporfly?,Performance improvement
+What is being asked about runners switching from Vaporfly to non-Vaporfly?,If there are instances of this happening and if there is anything interesting in their first performance back without Vaporfly.
+What might be the reason authors believe athletes are not switching back to non-Vaporfly?,Either there has not been sufficient time to observe such a switch or the performance enhancement with Vaporfly is noticeable enough that athletes would not want to switch.
+How many runners initially switched to the Vaporfly?,5
+Why was the number of runners who switched shoes reduced from 5 to 4?,One was a case of a misidentified shoe.
+What was the reason for one of the runners switching from the Vaporfly to another brand?,One of them joined a racing team sponsored by another company (Brooks).
+How many runners ran faster after switching away from the Vaporfly?,3
+Why is it suggested that the sample size is too small?,Because it is not large enough to draw any conclusions
+What could have contributed to one of the runners' improved speed apart from switching shoes?,Running on a faster course than the previous marathon
+What is the tendency of athletes after trying Vaporflys?,Very few athletes switched away from Vaporflys.
+What can be inferred about Vaporflys based on athlete's choices?,Vaporflys are likely preferred by athletes who have tried them.
+What action do athletes rarely take after using Vaporflys?,Athletes rarely switch away from using Vaporflys.
+What was corrected in the analysis?,The misidentified shoe
+Has the analysis been updated before or after the correction?,After
+What does the update pertain to?,The analysis
+What does the random effect in the model account for?,"The random effect in the model accounts for factors that affect all runners' performance in a race, such as bad weather or wind."
+What is the suggested addition to the model to account for variations in the same course over different years?,The suggested addition is a course effect for marathons run over the same course in different years.
+What is the purpose of including a course effect for marathons in the dataset?,Including a course effect could help tease out any additional variation in performance specific to the course on different days.
+What is the suggestion aimed to improve?,Making the marathon effects more flexible
+Why do the courses' difficulty vary each year?,Because of weather conditions and other factors
+Is the difficulty of certain courses consistent every year?,"No, the exact difficulty varies from year to year"
+What has been updated in the analysis?,An additional set of random effects specific to marathon courses.
+What were the original effects in the analysis specific to?,Course-year combinations.
+What is the purpose of the additional set of random effects?,To be specific to marathon courses.
+What happens to the estimates of the Vaporfly effects?,They decrease slightly in magnitude.
+Do the findings of the paper change substantially after the decrease in Vaporfly effects?,"No, the findings of the paper do not change substantially."
+What is the reason for the decrease in the Vaporfly effects?,The added flexibility in the random effects terms.
+What do athletes want to know about the new shoe?,Whether the shoe is going to help their performance specifically.
+What are some potential confounding factors mentioned by the authors?,Cost of the shoe and runners knowing whether they are training well for an upcoming race.
+What is necessary to establish a causal relationship regarding the shoe's effect on performance?,Additional analyses that account for the potential confounding factors should be carried out.
+What is the purpose of causal inference in an observational study?,The purpose of causal inference in an observational study is to control for confounders.
+Which confounders do the researchers believe they have controlled for?,"The researchers believe they have controlled for the most important confounders, which are athlete and marathon."
+Why can't the researchers definitively say that they've accounted for all confounding variables?,"The researchers can't definitively say they've accounted for all confounding variables because there is a possibility that other confounding factors exist, such as cost and fitness."
+What do runners think about the Vaporfly shoes?,Runners seem to think that there is a causal effect.
+What unusual choice did some runners make at the 2020 US Olympic Trials marathon?,Some runners chose to wear the new Nike Alphafly shoes after receiving them only a day or two before the race.
+What does conventional running wisdom advise against?,Conventional running wisdom advises against racing in a brand new shoe that you haven't tried before.
+What is the person curious about regarding the authors?,Whether any of the authors have worn the Vaporfly.
+What kind of evidence is being sought from the authors?,Anecdotal evidence about their experience with the Vaporfly.
+What is the Vaporfly being compared to?,Other shoes that are apparently inferior.
+Have the speakers worn the shoes yet?,No
+Who has provided evidence about the shoes?,Several runners
+What type of evidence suggests the shoes improve performances?,Anecdotal evidence
+Who is Ted Westling?,Ted Westling is presumably a person associated with the University of Massachusetts Amherst.
+What is the University of Massachusetts Amherst?,The University of Massachusetts Amherst is an educational institution.
+What is the likely relationship between Ted Westling and the University of Massachusetts Amherst?,"Ted Westling is likely an employee, student, or faculty member at the University of Massachusetts Amherst."
+What is the main focus of the study mentioned in the article?,The association between wearing the Vaporfly running shoe and race time in elite marathon runners.
+What is the general opinion of the author about the article?,The author thinks the article is clear and well-written.
+What does the author intend to do after reading the article?,The author intends to provide several comments.
+What is the expected benefit of combining women and men in a single model?,It would improve power and allow a formal assessment of the interaction of sex and Vaporfly effect.
+What does controlling for individual runner effects imply about sex differences?,It implies that sex differences are automatically included when individual runner effects are controlled for.
+What interaction is suggested to be formally assessed in a combined model?,The interaction of sex and Vaporfly effect.
+Why were separate models fitted for men and women?,To avoid assuming that the variances of the random effects terms were the same for men and women.
+"In the untransformed model, how do the women's standard deviations compare to the men's?",The women's standard deviations are all higher than the men's standard deviations.
+"In the log transformed model, which standard deviations are about 25% larger for women?",The runner standard deviations.
+What was done as a result of the suggestion?,The interaction model was fit and the results were included in the table below.
+What follows the results in the document?,The table of confidence intervals follows the results.
+What type of model was fit?,An interaction model was fit.
+What does \(b_{1}\) represent in the model?,The men's Vaporfly effect
+What are the values of the men's effects in the untransformed and log-transformed models?,-3.35 for the untransformed model and -0.0229 for the log-transformed model
+Is there statistical evidence that the difference between men's and women's effects is significant?,"No, there is no statistical evidence that the difference is significant as the standard error of the estimates are comparable to the estimates in both models."
+What happens to the widths of the confidence intervals for the log transformed data?,They do not change much.
+What type of data is being discussed in terms of confidence intervals?,Log transformed data.
+Does the log transformation affect the variability of the confidence intervals significantly?,"No, it does not."
+What does Harry Crane suggest is not accounted for when controlling for marathon effects?,Variation in marathon conditions that vary year-to-year.
+Under what condition does the speaker expect variations in marathon conditions to impact the conclusions?,Only if marathon conditions are also associated with the choice to wear Vaporflys.
+What additional information does the speaker express interest in seeing?,A plot of the proportion of runners wearing Vaporflys in each marathon over time.
+What do the authors control for in the marathon study?,Variation from year to year in the same marathon
+What has been added to the revised version of the study?,"Effects for each individual course, which do not vary from year to year"
+What is the purpose of describing the two types of effects separately?,To make the description of the effects more clear
+What was replaced in the plot?,The original plot was replaced with one that shows the proportion of runners wearing Vaporflys in each race.
+What does the new plot show?,The new plot shows the proportion of runners wearing Vaporflys in each race as a function of race date.
+Why was the original plot replaced?,The original plot was replaced following a suggestion for improvement.
+What are the two possible sampling strategies mentioned for the study?,The first strategy is identifying elite runners and recording all their marathon performances. The second strategy is identifying marathons and including only the performances that meet the stated time criteria.
+What could happen to a runner's data in the second sampling strategy?,"In the second sampling strategy, a runner's data could be included for one marathon if their time qualifies, but excluded for another marathon if their time does not qualify."
+What concern is raised about the impact of the sampling strategy?,The concern is about how the truncation in the sampling strategy might impact the results of the study.
+How many marathons were selected for the sample?,22
+What was the criteria for the marathons selected for the sample?,The most competitive marathons in the United States and Canada
+Who was selected from the marathons?,Runners
+What is the 90% confidence interval for Vaporfly effects on men's minutes?,"(-4.410, -2.298)"
+What is the range of the 90% confidence interval for Vaporfly effects on women's log minutes?,"(-0.024, -0.009)"
+How many models are used to present the Vaporfly effects in Table 4?,"Four models: men minutes, women minutes, men log minutes, and women log minutes."
+What is the estimate and standard error for the parameter \(b_{0}\) in the 'minutes' column?,The estimate for \(b_{0}\) is 140.27 and the standard error is 0.66.
+How does the estimate for \(b_{1}\) in the 'log minutes' column compare to its standard error?,"The estimate for \(b_{1}\) in the 'log minutes' column is \(-0.0229\), which is smaller in magnitude than its standard error of 0.0041."
+Which \(\sigma\) value is the largest in the 'minutes' column and what is its value?,"\(\sigma_{1}\) has the largest value in the 'minutes' column, which is 5.265."
+What was the criteria for selecting performances from runners?,Runners who achieved a minimum performance standard in 2015 or 2016 in at least one of the 22 selected marathons.
+Did the time of the performances affect the selection?,"No, all performances were selected regardless of the time."
+Over what period were the performances of the selected runners considered?,From 2015 to 2019.
+What is the purpose of creating a dataset from marathons in 2015 and 2016?,The purpose is to find runners that met the minimum performance standard in any marathon in those years.
+Why is there manual work involved in creating the marathon dataset?,Manual work is needed to know the url on marathonguide.com for every marathon.
+What was the criteria for selecting the 22 marathons?,The marathons were selected based on whether runners had qualified for the U.S. Olympic trials and whether the marathons had many Boston Marathon Qualifiers.
+Why do the authors avoid using causal language in the article?,"Because the study is observational rather than experimental, and making causal conclusions from observational data is difficult and controversial."
+What is the treatment mentioned in the context?,Wearing Vaporflys
+What is the outcome that the study is looking at?,Marathon time
+What are the possible confounders mentioned in the discussion?,Fitness and price
+Why might a runner in poor fitness be unwilling to pay for Mike Vaporflys?,Because they are expensive relative to other racing shoes
+What might influence a runner's decision to not race in Mike Vaporflys despite trying them in training?,Not getting a benefit from them or personal objections to the fairness of the shoes
