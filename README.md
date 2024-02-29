@@ -10,7 +10,8 @@ These examples dive right into the code with little introduction, so you can get
 
 | Example | CambioML Packages | Description |
 | --- | --- | --- |
-| [10K Agent](./examples/10K%20Evaluator/) | `pykoi`, `uniflow` | Do you want to build an agent so that you can ask it anything about the annual report (10K)? In this example, we will show you how use `uniflow` and `pykoi` to extract  knowledge from a unstructured annual report (10K) and then finetune an LLM on these knowledge. |
+| [10K Agent](./examples/10K_Evaluator/10K_PDF_Evaluator.ipynb) | `pykoi`, `uniflow` | Do you want to build an agent so that you can ask it anything about the annual report (10K)? In this example, we will show you how use `uniflow` and `pykoi` to extract  knowledge from a unstructured annual report (10K) and then finetune an LLM on these knowledge. |
+| [Research Agent](./examples/ResearchPaperEvaluator/ResearchPDFEvaluator.ipynb) | `pykoi`, `uniflow` | Do you want to build an agent so that you can ask it anything about a research paper? In this example, we will show you how use `uniflow` and `pykoi` to extract  knowledge from a research paper and then finetune an LLM on these knowledge. |
 
 ## Tutorials
 These tutorials are designed to help you get started with CambioML. They are written in a step-by-step fashion, and are accompanied by code snippets and explanations.
