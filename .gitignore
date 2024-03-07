@@ -1,5 +1,18 @@
+
+# Environments
 .env
+.venv
+env/
 .vscode
+
+# mac
 .DS_Store
+
+# model outputs
 examples/10K_Evaluator/models
 examples/10K_Evaluator/rlhf_checkpoints
+
+
+# google workspace json
+credentials.json
+token.json
